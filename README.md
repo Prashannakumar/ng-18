@@ -2,7 +2,7 @@
 
 This project is to test latest features in angular18.x.
 
-## features
+## Features
 Angular 18 is a version of the Angular framework that was released in May 2024. It includes a number of new features and improvements, including: 
 1. Zoneless change detection: An experimental feature that allows components to directly notify Angular when something has changed 
 2. Standalone components: Allows components to be declared independently of NgModules, which can improve readability and maintenance 
