@@ -1,5 +1,21 @@
 # Ng18
 
+This project is to test latest features in angular18.x.
+
+## features
+Angular 18 is a version of the Angular framework that was released in May 2024. It includes a number of new features and improvements, including: 
+1. Zoneless change detection: An experimental feature that allows components to directly notify Angular when something has changed 
+2. Standalone components: Allows components to be declared independently of NgModules, which can improve readability and maintenance 
+3. Firebase app hosting integration: Simplifies deployment 
+4. Dynamic route redirects: A new feature in Angular 18 
+5. Enhanced form control state events: A new feature in Angular 18 
+6. Improved internationalization (i18n) support: A new feature in Angular 18 
+7. Server-side rendering improvements: Includes i18n hydration support, better debugging, and event replay 
+8. Material 3: A stable feature in Angular 18 
+9. Deferrable views: A stable feature in Angular 18 
+10. Built-in control flow: A stable feature in Angular 18 
+Angular 18 also includes hybrid change detection by default, which uses both NgZone and the new zoneless scheduler. This hybrid approach ensures that change detection is always scheduled, even when updates occur outside NgZone. 
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.7.
 
 ## Development server
