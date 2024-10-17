@@ -18,6 +18,18 @@ Angular 18 also includes hybrid change detection by default, which uses both NgZ
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.7.
 
+## Reference
+
+https://www.kellton.com/kellton-tech-blog/angular-18-new-features#:~:text=Angular%2018%20is%20a%20landmark,this%20version%20of%20the%20framework.
+
+https://blog.angular.dev/angular-v18-is-now-available-e79d5ac0affe
+
+https://dev.to/javafullstackdev/exploring-angular-18-a-deep-dive-into-new-features-and-comparisons-with-previous-versions-2a33#:~:text=Comparing%20Angular%2018%20with%20Previous%20Versions&text=Angular%2018%20offers%20significant%20performance,in%20SSR%20and%20differential%20loading.
+
+https://angular.love/angular-18-whats-new
+
+https://angular.love/angular-17-introduction-to-angular-renaissance
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
