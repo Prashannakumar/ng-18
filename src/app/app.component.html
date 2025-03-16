@@ -63,15 +63,15 @@
     <div class="right-side">
       <div class="pill-group">
         @for (item of [
-          { title: 'RxJs', link: 'https://angular.dev' },
-          { title: 'Learn with Tutorials', link: 'https://angular.dev/tutorials' },
+          { title: 'RxJs', link: 'rxjs' },
+          { title: 'Form', link: 'form' },
           { title: 'CLI Docs', link: 'https://angular.dev/tools/cli' },
           { title: 'Angular Language Service', link: 'https://angular.dev/tools/language-service' },
           { title: 'Angular DevTools', link: 'https://angular.dev/tools/devtools' },
         ]; track item.title) {
           <a
             class="pill"
-            routerLink="rxjs"
+            routerLink="{{item.link}}"
             rel="noopener"
           >
             <span>{{ item.title }}</span>
